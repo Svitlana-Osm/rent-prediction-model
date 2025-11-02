@@ -12,7 +12,8 @@
 - `Rent` - орендна плата (цільова змінна)  
 - `BHK` - кількість кімнат  
 - `Size` - площа житла (у квадратних футах)  
-- `Bathroom` - кількість ванних кімнат  
+- `Bathroom` - кількість ванних кімнат
+- `Floor` - поверх та загальна кількість поверхів
 - `Furnishing Status` - стан меблювання (Furnished / Semi-Furnished / Unfurnished)  
 - `Area Type` - тип житлової зони (Super Area, Carpet Area тощо)  
 - `City` - місто розташування житла  
@@ -51,5 +52,3 @@
 
 
 
-- `pandas`, `numpy` — обробка та аналіз даних  
-- `matplotlib`, `seaborn`, `plotly.express` — візуал
